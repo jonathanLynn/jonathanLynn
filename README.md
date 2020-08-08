@@ -15,4 +15,4 @@
 -[Multi-Cloud is the Worst Practise by Corey Quinn](https://www.lastweekinaws.com/blog/multi-cloud-is-the-worst-practice/) \
 -[BGP and Car Safety](https://blog.ipspace.net/2019/12/bgp-and-car-safety.html) \
 -[Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos) \
--[4 Beers In](https://open.spotify.com/show/08S7YrBcYSRyw5ObNgjLe9) \
+-[4 Beers In](https://open.spotify.com/show/08S7YrBcYSRyw5ObNgjLe9)
