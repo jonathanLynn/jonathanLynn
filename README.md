@@ -2,9 +2,9 @@
 
 ## I'm an Engineer, Husband and Father.
 
-- 🔭 I’m currently working on Full Stack Development Things
-- 🌱 I’m currently learning Node.js/Python along with Cloud! 
-- 👯 I’m looking to collaborate on DevSecOps and Infrastructure as Code
+- 🔭 I’m currently working as a NSE at a Large National Bank
+- 🌱 I’m currently studying for my PCNSE Certification
+- 👯 I’m looking to collaborate on All things Network & Security
 - ⚡ Fun fact: I can handle myself on a dance floor!!
 
 
