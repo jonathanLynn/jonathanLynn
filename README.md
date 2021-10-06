@@ -1,12 +1,9 @@
-### G'day 👋 I'm Jonathan aka LanDownUnda.
+### G'day 👋 I'm Jonathan.
 
 ## I'm an Engineer, Husband and Father.
 
-- 🔭 I’m currently working as a NSE at a Large National Bank
-- 🌱 I’m currently studying for my PCNSE Certification
-- 👯 I’m looking to collaborate on All things Network & Security
-- ⚡ Fun fact: I can handle myself on a dance floor!!
-
+- 🔭 I’m currently working as a Network & Security Engineer
+- 🌱 I’m currently studying all things Network Automation
 
 ### :memo: Latest Readings and Podcasts:
 
