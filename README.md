@@ -2,8 +2,8 @@
 
 ## I'm an Engineer, Husband and Father.
 
-- 🔭 I’m currently working as a Network & Security Engineer
-- 🌱 I’m currently studying all things Network Automation
+- 🔭 I'm a Principal Engineer for a large Enterprise 
+- 🌱 I'm passionate about technical adoption and helping others with their technology journey
 
 ### :memo: Latest Readings and Podcasts:
 
